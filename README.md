@@ -2,7 +2,7 @@ Sure, here's the updated README file including the new information:
 
 ```markdown
 # Recommender System Project
-![image](https://github.com/user-attachments/assets/c65aef8a-9627-4906-8b85-e85d74bb620e)
+![ZEE](https://github.com/user-attachments/assets/42cee79c-c898-4fc1-a52e-b494ef4a98db)
 
 ## Overview
 
@@ -14,10 +14,10 @@ In today's digital age, users are inundated with vast amounts of content, produc
 
 This project aims to address these challenges by developing an advanced recommender system. The primary goals are:
 
-1. **Personalization**: Provide tailored recommendations that match individual user preferences and behaviors.
-2. **Scalability**: Ensure the system can handle large datasets and a growing number of users and items without significant performance degradation.
-3. **Accuracy**: Improve the precision of recommendations by leveraging state-of-the-art algorithms and deep learning techniques.
-4. **Efficiency**: Optimize data storage and model deployment to ensure quick response times and efficient use of resources.
+1. Personalization: Provide tailored recommendations that match individual user preferences and behaviors.
+2. Scalability: Ensure the system can handle large datasets and a growing number of users and items without significant performance degradation.
+3. Accuracy: Improve the precision of recommendations by leveraging state-of-the-art algorithms and deep learning techniques.
+4. Efficiency: Optimize data storage and model deployment to ensure quick response times and efficient use of resources.
 
 By integrating collaborative filtering, matrix factorization, and neural networks, this project seeks to create a hybrid model that leverages the strengths of each approach. Amazon SageMaker is utilized for its robust machine learning capabilities, while Amazon S3 provides scalable and efficient data management.
 
@@ -36,21 +36,22 @@ By integrating collaborative filtering, matrix factorization, and neural network
 
 ## Installation
 
-1. **Clone the Repository**:
+1. Clone the Repository:
    ```bash
    git clone https://github.com/yourusername/recommender-system.git
    cd recommender-system
    ```
 
-2. **Install Dependencies**:
+2. Install Dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set Up AWS Credentials**:
+3. Set Up AWS Credentials:
    Ensure your AWS credentials are configured to access SageMaker and S3.
 
 ## Usage
+
 
 1. **Data Preparation**:
    Upload your dataset to an S3 bucket. Update the data paths in the configuration file.

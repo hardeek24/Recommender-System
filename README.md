@@ -1,7 +1,8 @@
-Here's the content formatted as a GitHub README file:
+Sure, here's the updated README file including the new information:
 
 ```markdown
 # Recommender System Project
+![image](https://github.com/user-attachments/assets/c65aef8a-9627-4906-8b85-e85d74bb620e)
 
 ## Overview
 
@@ -20,13 +21,18 @@ This project aims to address these challenges by developing an advanced recommen
 
 By integrating collaborative filtering, matrix factorization, and neural networks, this project seeks to create a hybrid model that leverages the strengths of each approach. Amazon SageMaker is utilized for its robust machine learning capabilities, while Amazon S3 provides scalable and efficient data management.
 
+## Achievements
+
+- Achieved a Mean Absolute Percentage Error (MAPE) of less than 2%.
+- Compared the model's recommendations with real search results to improve accuracy and check the relevancy of the recommendations.
+
 ## Features
 
-- **Collaborative Filtering**: Utilizes user-item interactions to predict user preferences.
-- **Matrix Factorization**: Decomposes the user-item interaction matrix to discover latent factors representing users and items.
-- **Neural Networks**: Applies deep learning techniques to capture complex patterns and improve recommendation accuracy.
-- **Amazon SageMaker**: Facilitates model training, tuning, and deployment in a scalable environment.
-- **Amazon S3**: Manages data storage, ensuring efficient access and retrieval.
+- Collaborative Filtering: Utilizes user-item interactions to predict user preferences.
+- Matrix Factorization: Decomposes the user-item interaction matrix to discover latent factors representing users and items.
+- Neural Networks: Applies deep learning techniques to capture complex patterns and improve recommendation accuracy.
+- Amazon SageMaker: Facilitates model training, tuning, and deployment in a scalable environment.
+- Amazon S3: Manages data storage, ensuring efficient access and retrieval.
 
 ## Installation
 

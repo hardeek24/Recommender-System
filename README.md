@@ -90,4 +90,4 @@ By integrating collaborative filtering, matrix factorization, and neural network
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 ```
 
-Feel free to copy this content into your `README.md` file on GitHub!
+
